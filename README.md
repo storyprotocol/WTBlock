@@ -1,0 +1,1 @@
+Just run `bash log_blocks.sh`
